@@ -38,6 +38,9 @@ dependencies:
   get:
   flutter_local_notifications:
   flutter_native_timezone:
+  intl:
+  google_fonts:
+  date_picker_timeline:
 
 dev_dependencies:
   flutter_test:
