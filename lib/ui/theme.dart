@@ -57,7 +57,7 @@ TextStyle get subtitleStyle {
     textStyle: TextStyle(
       fontSize: 14,
       fontWeight: FontWeight.w400,
-      color: Get.isDarkMode ? Colors.grey[100] : Colors.grey[400],
+      color: Get.isDarkMode ? Colors.grey[100] : Colors.black,
     ),
   );
 }
